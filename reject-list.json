@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "honeycomb.io",
+        "api.segment.io"
+      ],
+      "domain_suffix": [
+        ".honeycomb.io",
+        ".segment.io",
+        ".datadoghq.com",
+        ".appsflyersdk.com",
+        ".appsflyer.com",
+        ".adjust.com",
+        ".branch.io",
+        ".siftscience.com"
+      ]
+    }
+  ]
+}
