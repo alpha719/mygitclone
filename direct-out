@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "aviationweather.gov",
+        "takoboto.jp",
+        "ipleak.net",
+        "api.met.no",
+        "nhk.or.jp",
+        "www.web.nhk",
+        "www3.nhk.or.jp",
+        "jisho.org",
+        "scamalytics.com",
+        "www.clubsim.com.hk",
+        "fw.koolcenter.com"
+      ],
+      "domain_suffix": [
+        ".debian.org",
+        ".u-tokyo.ac.jp",
+        ".steamserver.net",
+        ".neea.cn",
+        ".neea.edu.cn",
+        ".kdocs.cn",
+        ".met.no",
+        ".nisshinkyo.org",
+        ".web.nhk",
+        ".nhk.or.jp",
+        ".nhk.jp",
+        ".jsonlint.com",
+        ".koolcenter.com"
+      ]
+    }
+  ]
+}
